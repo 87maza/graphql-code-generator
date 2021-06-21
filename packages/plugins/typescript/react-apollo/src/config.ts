@@ -13,7 +13,7 @@ export interface ReactApolloRawPluginConfig extends RawClientSideBasePluginConfi
    * @exampleMarkdown
    * ```yml
    * generates:
-   * path/to/file.ts:
+   * path/to/file.tsx:
    *  plugins:
    *    - typescript
    *    - typescript-operations
